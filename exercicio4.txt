@@ -1,0 +1,5 @@
+Iria checar a temperatura das lampadas.
+iria ligar o primeiro interruptor e esperar um pouco e desligaria e ligaria o segundo interruptor.
+A lâmpada que estiver desligada e quente será a primeira que liguei do interruptor.
+A lâmpada que estiver acesa será a do segundo interruptor.
+A última lâmpada estará fria e desligada.
